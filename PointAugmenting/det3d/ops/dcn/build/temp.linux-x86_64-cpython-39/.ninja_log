@@ -1,0 +1,3 @@
+# ninja log v7
+144	25355	1760272203085805000	/mnt/c/Users/26635/Desktop/python/PlanA/PointAugmenting/det3d/ops/dcn/build/temp.linux-x86_64-cpython-39/src/deform_conv_cuda.o	32b550c22b4100e6
+152	27120	1760272203099857500	/mnt/c/Users/26635/Desktop/python/PlanA/PointAugmenting/det3d/ops/dcn/build/temp.linux-x86_64-cpython-39/src/deform_conv_cuda_kernel.o	988f1282dd335355

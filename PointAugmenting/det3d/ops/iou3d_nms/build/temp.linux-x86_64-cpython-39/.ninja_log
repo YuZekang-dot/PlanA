@@ -1,0 +1,5 @@
+# ninja log v5
+20	2525	1760064704560342600	/mnt/c/Users/26635/Desktop/python/PlanA/PointAugmenting/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-39/src/iou3d_nms_kernel.o	b9b5b67a62e05b80
+17	82466	1760064784472940900	/mnt/c/Users/26635/Desktop/python/PlanA/PointAugmenting/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-39/src/iou3d_nms.o	c2cbc47eadaea7b3
+15	83700	1760064784819272900	/mnt/c/Users/26635/Desktop/python/PlanA/PointAugmenting/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-39/src/iou3d_cpu.o	5d8ef760570dc6bf
+19	83723	1760064785473594700	/mnt/c/Users/26635/Desktop/python/PlanA/PointAugmenting/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-39/src/iou3d_nms_api.o	6e64fa3dafa4d5cc

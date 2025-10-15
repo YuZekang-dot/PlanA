@@ -1,0 +1,1 @@
+recursive-include det3d *.cu *.cpp *.h *.json
